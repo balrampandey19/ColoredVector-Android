@@ -10,7 +10,7 @@ ColoredVector-Andorid
 
 
 
-### If you want to set a colored vector in Imageview:*​
+## If you want to set a colored vector in Imageview:​
 
 
 
