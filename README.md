@@ -6,7 +6,7 @@ The beauty of Vector drawable is  defined in XML and can easily modified.
 if want to convet vector drawable color programmatically you can easily convert by using this 
 ColoredVector-Andorid  
 
-### Use this library to change colors of your vector drawables easily from your code.*​
+### Use this library to change colors of your vector drawables easily from your code.
 
 
 
