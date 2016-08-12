@@ -1,7 +1,7 @@
 # Android Colored Vector Drawable
 
 
-### Use this library to change colors of your vector drawables easily from your code.
+## Use this library to change colors of your vector drawables easily from your code.
 
 
 
