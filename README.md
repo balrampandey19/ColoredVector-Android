@@ -37,7 +37,6 @@ The Gradle dependency is available via jCenter. jCenter is the default Maven rep
 
 ```
 dependencies {
-   
 compile 'co.balrampandey:library:0.1.1'
 }
 ```
