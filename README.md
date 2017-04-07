@@ -26,7 +26,6 @@
             .withDrawable(R.drawable.ic_search_24dp)
             .tint()
             .get();
-
     actionBar.setHomeAsUpIndicator(drawable);
             
 ```
