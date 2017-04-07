@@ -5,7 +5,7 @@
 
 
 
-### If you want to set a colored vector in Imageview:​
+#### If you want to set a colored vector in Imageview:​
 
 
 
@@ -30,9 +30,9 @@
     actionBar.setHomeAsUpIndicator(drawable);
             
 ```
-## Gradle Dependency
+### Gradle Dependency
 
-### Repository
+#### Repository
 
 The Gradle dependency is available via jCenter. jCenter is the default Maven repository used by Android Studio.
 
